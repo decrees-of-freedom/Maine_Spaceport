@@ -1,10 +1,7 @@
 Maine_Spaceport -  File Directory
 
-The project files for the launch and revenue predicion model 
+The project files for the launch cadence and revenue predicion models. 
 
-	
-Launch Cadence and Revenue 
-  - Under 'LAUNCH' 
   - Files 
  	 - LAUNCH_Weather_Bronze.csv
 	 - LAUNCH_ForecastingDataTrial.csv
